@@ -19,9 +19,7 @@
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></img>
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></img>
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark)](https://github.com/DiogoFiuza/github-readme-stats)
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark)](https://github.com/DiogoFiuza/github-readme-stats)
 
 
 
