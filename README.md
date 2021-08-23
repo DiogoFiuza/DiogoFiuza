@@ -2,7 +2,7 @@
 
 ## I'm Diogo Fiuza
 - I live in Brazil 🇧🇷
-- I have learned more about JavaScript, CSS and HTML. 💻 🖱️
+- I have been studying Web Development 💻 🖱️
 
 ## Connect with me
 <!-- Linkedin -->
