@@ -16,13 +16,14 @@
 
 ## My Skills
 <!--Fonte: https://devicon.dev/ -->
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React"/>
-<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"></img>
+<img align='center' height="40" width="40" style="display: inline, max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"></img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"></img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React"></img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></img>
+<img align='center' height="40" width="40" style="max-width: 100%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux"></img>
 
 
 
