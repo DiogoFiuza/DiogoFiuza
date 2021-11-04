@@ -1,6 +1,11 @@
-# Hi there!! 👋
+<p align='center'>
+  <h1 align='center'>I'm Diogo Fiuza</h1>
+</p>
 
-## I'm Diogo Fiuza
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+</p>
+
 - I live in Brazil 🇧🇷
 - I have been studying Web Development 💻 🖱️
 
