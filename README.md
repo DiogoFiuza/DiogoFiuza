@@ -35,11 +35,14 @@
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></img>
 <img align='center' height="40" width="40" style="max-width: 100%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux"></img>
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark">
+<div align='center'>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark">
 </div>
 
+<div align='center'>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200em" height="200em"/>
+</div>
 
 
 
