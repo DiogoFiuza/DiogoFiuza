@@ -7,12 +7,17 @@
 </p>
 
 - I live in Brazil 🇧🇷
+- I like soccer, movies and pizza 🍕 ⚽
 - I have been studying Web Development 💻 🖱️
 
 ## Connect with me
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/diogo-fiuza/" target="_blank">
   <img align='center' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="diogo-linkedin">
+</a>
+<!--Instagram-->
+<a href="https://www.instagram.com/fiuzadiogo/" target="_blank">
+  <img align='center' src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_32x32.png?_ga=2.112658560.562039471.1630719819-2106938979.1630719819" alt="diogo-linkedin">
 </a>
 <!-- E-mail -->
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZZQqxqKjZFSWKlvTlXNLQKlGdlZdvDfnkFsZQDqGDPFZGCmJSThMPmzkJJFgHHclFwKsV" target="_blank">
@@ -30,9 +35,10 @@
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></img>
 <img align='center' height="40" width="40" style="max-width: 100%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux"></img>
 
-
-
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark)](https://github.com/DiogoFiuza/github-readme-stats)
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiogoFiuza&show_icons=true&theme=dark">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFiuza&layout=compact&theme=dark">
+</div>
 
 
 
