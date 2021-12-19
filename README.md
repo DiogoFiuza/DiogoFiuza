@@ -35,6 +35,8 @@
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></img>
 <img align='center' height="40" width="40" style="max-width: 100%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux"></img>
 <img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"> </img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"> </img>
+<img align='center' height="40" width="40" style="max-width: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql"> </img>
 
 
 <div align='center'>
