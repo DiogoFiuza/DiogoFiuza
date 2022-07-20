@@ -8,7 +8,7 @@
 
 - I live in Brazil 🇧🇷
 - I like soccer, movies and pizza 🍕 ⚽
-- I am Full Stack Developer 💻 🖱️
+- I am a Software Developer 💻 🖱️
 
 ## Connect with me
 <!-- Linkedin -->
